@@ -129,3 +129,5 @@ STATICFILES_DIRS = [
 # ---------------------------------------------------------------------------- #
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
+
+ALLOWED_HOTST = ['13.209.252.164']
